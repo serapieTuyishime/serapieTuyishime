@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+- 👯 Umunyarwandakazi
+- 📩 tuyiserapie@gmail.com
 <!--
 **serapieTuyishime/serapieTuyishime** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -11,7 +12,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: https://www.linkedin.com/in/serapie-tuyishime-b0a9421a2/
-- 😄 Pronouns: Umunyarwandakazi 
+* 😄 Pronouns: Umunyarwandakazi 
 - ⚡ Fun fact: I love coding
 -->
 
