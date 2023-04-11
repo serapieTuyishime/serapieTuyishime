@@ -22,9 +22,9 @@ Here are some ideas to get you started:
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   
+  
+## Visitor count:  
 ![Visitor Count](https://profile-counter.glitch.me/serapieTuyishime/count.svg)
-
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=serapieTuyishime&theme=github&hide_border=true&bg_color=0d1117&area_color=1f6fea&line=38d252&point=1f6fea&color=fefefe)
 
 
 [![Serapie's GitHub stats](https://github-readme-stats.vercel.app/api?username=serapieTuyishime&hide=isues,stars&?count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=serapieTuyishime&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
