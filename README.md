@@ -24,3 +24,11 @@ Here are some ideas to get you started:
 
 [![Serapie's GitHub stats](https://github-readme-stats.vercel.app/api?username=serapieTuyishime&hide=isues,stars&?count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=serapieTuyishime&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
+
+###
+
+<h3>Progress Graph</h3>
+
+![My GitHub progress](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=serapieTuyishime&theme=algolia&hide_border=true)
+
+[![My GitHub Streak](https://streak-stats.demolab.com/?user=serapieTuyishime&theme=algolia&hide_border=true)](https://git.io/streak-stats)
